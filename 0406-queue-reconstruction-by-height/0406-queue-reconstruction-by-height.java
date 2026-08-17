@@ -10,6 +10,6 @@ class Solution {
         for(int[] person : people){
             queue.add(person[1],person);
         }
-        return queue.toArray(new int[people.length][]);
+        return queue.toArray(people);
     }
 }
