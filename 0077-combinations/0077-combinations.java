@@ -11,8 +11,11 @@ class Solution {
     }
 
     public void backTrack(int start,List<Integer> currSet,int n,int k){
-        if(currSet.size()==k)
+        if(currSet.size()==k){
             output.add(new ArrayList<>(currSet));
+            return;
+        }
+            
         for (int i = start; i <= n; ++i) {
             currSet.add(i);
             backTrack(i+1,currSet,n,k);
