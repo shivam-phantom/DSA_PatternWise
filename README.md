@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
