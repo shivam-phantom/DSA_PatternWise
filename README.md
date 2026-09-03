@@ -36,5 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0077-combinations) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
