@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0056-merge-intervals) |
+| [0090-subsets-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0135-candy) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
