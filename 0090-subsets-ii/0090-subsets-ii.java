@@ -4,9 +4,11 @@ class Solution {
 
     public void backTrack(int start,List<Integer> cur ,int[] nums){
 
-        if(output.isEmpty() || !output.contains(cur))
+        //if(output.isEmpty() || !output.contains(cur))
             output.add(new ArrayList<>(cur));
         for(int i=start;i<n;i++){
+            if(i>start && nums[i] == nums[i-1])
+                continue;
             cur.add(nums[i]);
             backTrack(i+1,cur,nums);
             cur.remove(cur.size()-1);
