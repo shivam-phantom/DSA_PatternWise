@@ -64,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
