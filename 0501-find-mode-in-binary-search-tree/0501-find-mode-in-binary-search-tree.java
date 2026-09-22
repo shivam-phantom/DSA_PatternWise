@@ -14,14 +14,19 @@
  * }
  */
 class Solution {
-   
+    int count = 0;
+    int maxCount = 0;
+    int nodeCount =0;
+    Integer pre = null;
+    int [] modes;
+    int idx=0;
     public int[] findMode(TreeNode root) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int[] maxCount = {0};
+        // HashMap<Integer,Integer> map = new HashMap<>();
+        // int[] maxCount = {0};
         // PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[1]-a[1]);
-        List<Integer> resList = new ArrayList<>();
+        // List<Integer> resList = new ArrayList<>();
         // int max = Integer.MIN_VALUE;
-        countFreq(root,map,maxCount,resList);
+        // countFreq(root,map,maxCount,resList);
         // for(int i : map.values()){
         //     max = Math.max(max,i);
         // }
@@ -38,11 +43,14 @@ class Solution {
         //     int[] temp = pq.poll();
         //     resList.add(temp[0]);
         // }
-        int[] res = new int[resList.size()];
-        for(int i =0;i<resList.size();i++){
-            res[i]=resList.get(i);
-        }
-        return res;
+        // int[] res = new int[resList.size()];
+        // for(int i =0;i<resList.size();i++){
+        //     res[i]=resList.get(i);
+        // }
+        inOrder(root,false);
+        modes = new int[nodeCount];
+        inOrder(root,true);
+        return modes;
     }
     void countFreq(TreeNode root,HashMap<Integer,Integer> map,int[] maxCount,List<Integer> resList){
         if(root==null)
@@ -61,5 +69,35 @@ class Solution {
             // pq.offer(new int[]{root.val,map.get(root.val)});
             countFreq(root.right,map,maxCount,resList);
         // }
+    }
+    // int count = 0;
+    // int maxCount = 0;
+    // int nodeCount =0;
+    // Integer pre = null;
+    // int [] modes;
+    // int idx=0;
+    void inOrder(TreeNode root,boolean collect){
+        if(root == null)
+            return;
+        inOrder(root.left,collect);
+
+        count = (pre != null && pre == root.val)?count+1:1;
+
+        if(count>maxCount){
+            maxCount=count;
+            if(collect){
+                modes[0]=root.val;
+                idx=1;
+            } else{
+                nodeCount=1;
+            }
+        } else if(count==maxCount ){
+            if(collect)
+                modes[idx++]=root.val;
+            else
+                nodeCount++;
+        }
+        pre=root.val;
+        inOrder(root.right,collect);
     }
 }
