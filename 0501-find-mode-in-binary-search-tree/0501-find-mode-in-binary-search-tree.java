@@ -14,13 +14,14 @@
  * }
  */
 class Solution {
-    HashMap<Integer,Integer> map = new HashMap<>();
-    int[] maxCount = {0};
-    // PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[1]-a[1]);
-    List<Integer> resList = new ArrayList<>();
+   
     public int[] findMode(TreeNode root) {
-        int max = Integer.MIN_VALUE;
-        countFreq(root);
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int[] maxCount = {0};
+        // PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[1]-a[1]);
+        List<Integer> resList = new ArrayList<>();
+        // int max = Integer.MIN_VALUE;
+        countFreq(root,map,maxCount,resList);
         // for(int i : map.values()){
         //     max = Math.max(max,i);
         // }
@@ -43,11 +44,11 @@ class Solution {
         }
         return res;
     }
-    void countFreq(TreeNode root){
+    void countFreq(TreeNode root,HashMap<Integer,Integer> map,int[] maxCount,List<Integer> resList){
         if(root==null)
             return;
         // if(root!=null){
-            countFreq(root.left);
+            countFreq(root.left,map,maxCount,resList);
             int count = map.getOrDefault(root.val,0)+1;
             map.put(root.val,count);
             if(count>maxCount[0]){
@@ -58,7 +59,7 @@ class Solution {
                 resList.add(root.val);
             }
             // pq.offer(new int[]{root.val,map.get(root.val)});
-            countFreq(root.right);
+            countFreq(root.right,map,maxCount,resList);
         // }
     }
 }
