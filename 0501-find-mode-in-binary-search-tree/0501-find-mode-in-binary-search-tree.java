@@ -48,13 +48,13 @@ class Solution {
             return;
         // if(root!=null){
             countFreq(root.left);
-            
-            map.put(root.val,map.getOrDefault(root.val,0)+1);
-            if(map.get(root.val)>maxCount[0]){
-                maxCount[0]=map.get(root.val);
+            int count = map.getOrDefault(root.val,0)+1;
+            map.put(root.val,count);
+            if(count>maxCount[0]){
+                maxCount[0]=count;
                 resList.clear();
                 resList.add(root.val);
-            } else if(map.get(root.val) == maxCount[0]){
+            } else if(count == maxCount[0]){
                 resList.add(root.val);
             }
             // pq.offer(new int[]{root.val,map.get(root.val)});
