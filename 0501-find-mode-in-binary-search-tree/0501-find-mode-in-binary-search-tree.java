@@ -44,7 +44,9 @@ class Solution {
         return res;
     }
     void countFreq(TreeNode root){
-        if(root!=null){
+        if(root==null)
+            return;
+        // if(root!=null){
             countFreq(root.left);
             
             map.put(root.val,map.getOrDefault(root.val,0)+1);
@@ -57,6 +59,6 @@ class Solution {
             }
             // pq.offer(new int[]{root.val,map.get(root.val)});
             countFreq(root.right);
-        }
+        // }
     }
 }
