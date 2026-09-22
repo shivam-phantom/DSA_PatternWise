@@ -15,19 +15,20 @@
  */
 class Solution {
     HashMap<Integer,Integer> map = new HashMap<>();
+    int[] maxCount = {0};
     // PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[1]-a[1]);
     List<Integer> resList = new ArrayList<>();
     public int[] findMode(TreeNode root) {
         int max = Integer.MIN_VALUE;
         countFreq(root);
-        for(int i : map.values()){
-            max = Math.max(max,i);
-        }
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-            if(entry.getValue()==max){
-                resList.add(entry.getKey());
-            }
-        }
+        // for(int i : map.values()){
+        //     max = Math.max(max,i);
+        // }
+        // for(Map.Entry<Integer,Integer> entry : map.entrySet()){
+        //     if(entry.getValue()==max){
+        //         resList.add(entry.getKey());
+        //     }
+        // }
         
         
         // int[] res = pq.poll();
@@ -47,6 +48,13 @@ class Solution {
             countFreq(root.left);
             
             map.put(root.val,map.getOrDefault(root.val,0)+1);
+            if(map.get(root.val)>maxCount[0]){
+                maxCount[0]=map.get(root.val);
+                resList.clear();
+                resList.add(root.val);
+            } else if(map.get(root.val) == maxCount[0]){
+                resList.add(root.val);
+            }
             // pq.offer(new int[]{root.val,map.get(root.val)});
             countFreq(root.right);
         }
