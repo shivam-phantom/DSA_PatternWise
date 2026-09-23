@@ -28,7 +28,8 @@ class Solution {
         inOrder(root.left);
 
         if(pre!=null){
-            min = Math.min(min, Math.abs(pre-root.val));
+            // min = Math.min(min, Math.abs(pre-root.val));
+            min = Math.min(min, root.val - pre);
         }
 
 
