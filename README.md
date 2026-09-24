@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
