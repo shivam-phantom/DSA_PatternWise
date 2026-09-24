@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Design
