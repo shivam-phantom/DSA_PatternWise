@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
