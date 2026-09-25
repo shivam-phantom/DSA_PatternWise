@@ -16,19 +16,33 @@
 class Solution {
     List<TreeNode> res;
     public void flatten(TreeNode root) {
-        if(root==null)
-            return ;
-        res = new ArrayList<>();
-        dfs(root,false);
-        
-        for(int i=0;i<res.size()-1;i++){
-            TreeNode cur = res.get(i);
-            cur.left=null;
-            cur.right=res.get(i+1);
+        TreeNode cur = root;
+        while(cur!=null){
+            if(cur.left!=null){
+                TreeNode pre = cur.left;
+
+                while(pre.right!=null){
+                    pre=pre.right;
+                }
+                pre.right=cur.right;
+                cur.right=cur.left;
+                cur.left=null;
+            }
+            cur=cur.right;
         }
-        TreeNode last = res.get(res.size()-1);
-        last.left=null;
-        last.right=null;
+        // if(root==null)
+        //     return ;
+        // res = new ArrayList<>();
+        // dfs(root,false);
+        
+        // for(int i=0;i<res.size()-1;i++){
+        //     TreeNode cur = res.get(i);
+        //     cur.left=null;
+        //     cur.right=res.get(i+1);
+        // }
+        // TreeNode last = res.get(res.size()-1);
+        // last.left=null;
+        // last.right=null;
     }
     public void dfs(TreeNode node,boolean isLeft){
         if(node == null)
