@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0135-candy) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## String
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -203,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
