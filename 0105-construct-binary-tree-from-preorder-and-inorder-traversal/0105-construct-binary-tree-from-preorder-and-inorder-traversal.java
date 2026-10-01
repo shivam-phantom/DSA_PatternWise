@@ -15,12 +15,14 @@
  */
 class Solution {
     int[] preorder;
+    int preIndex = 0;
     Map<Integer,Integer> inMap = new HashMap<>();
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         this.preorder = preorder;
         for(int i=0;i<inorder.length;i++)
             inMap.put(inorder[i],i);
-        TreeNode root = dfs(0,preorder.length-1,0,inorder.length-1);
+        // TreeNode root = dfs(0,preorder.length-1,0,inorder.length-1);
+        TreeNode root = dfs_op(0,inorder.length-1);
         return root;
     }
 
@@ -34,6 +36,17 @@ class Solution {
         root.left = dfs (preL+1,preL+leftSize,inL,idx-1);
         root.right = dfs (preL+leftSize+1,preR,idx+1,inR);
 
+        return root;
+    }
+
+    public TreeNode dfs_op(int left,int right){
+        if(left>right)
+            return null;
+        int val = preorder[preIndex++];
+        TreeNode root = new TreeNode(val);
+        int mid = inMap.get(val);
+        root.left= dfs_op(left,mid-1);
+        root.right=dfs_op(mid+1,right);
         return root;
     }
 }
