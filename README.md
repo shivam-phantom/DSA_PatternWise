@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
