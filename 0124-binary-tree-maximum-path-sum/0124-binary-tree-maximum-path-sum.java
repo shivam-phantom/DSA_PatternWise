@@ -22,16 +22,16 @@ class Solution {
     int dfs(TreeNode node){
         if(node == null)
             return 0;
-        int leftSum = dfs(node.left);
-        int rightSum = dfs(node.right);
-        int sum = node.val ;
-        if(leftSum>0)
-            sum+= leftSum;
-        if(rightSum>0)
-            sum+= rightSum;
+        int leftSum = Math.max(0,dfs(node.left));
+        int rightSum = Math.max(0,dfs(node.right));
+        int sum = node.val + leftSum + rightSum;
+        // if(leftSum>0)
+        //     sum+= leftSum;
+        // if(rightSum>0)
+        //     sum+= rightSum;
         max = Math.max(sum,max);
-        if(leftSum<0 && rightSum<0)
-            return node.val;
+        // if(leftSum<0 && rightSum<0)
+        //     return node.val;
         return node.val+Math.max(leftSum,rightSum);
     }
 }
