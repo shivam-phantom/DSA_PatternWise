@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0135-candy) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Design
 |  |
 | ------- |
