@@ -9,6 +9,22 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        return dfs(root,p,q);
+    }
+    public TreeNode dfs(TreeNode node, TreeNode p, TreeNode q){
+        if(node == null)
+            return node;
+        if(node == p || node == q)
+            return node;
+        TreeNode lca1 = dfs(node.left,p,q);
+        TreeNode lca2 = dfs(node.right,p,q);
+        if(lca1 != null && lca2 != null)
+            return node;
+        if(lca1!=null)
+            return lca1;
+        return lca2;
+    }
+    public TreeNode lowestCommonAncestor1(TreeNode root, TreeNode p, TreeNode q) {
         List<TreeNode> pList = new ArrayList<>();
         List<TreeNode> qList = new ArrayList<>();
         if (!findPath(root, pList, p) || !findPath(root, qList, q))
