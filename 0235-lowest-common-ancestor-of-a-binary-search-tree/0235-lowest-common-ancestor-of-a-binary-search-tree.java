@@ -11,12 +11,14 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         // return dfs(root,p,q);
-        TreeNode low = p.val > q.val?q:p;
-        TreeNode high = p.val > q.val?p:q;
+        // TreeNode low = p.val > q.val?q:p;
+        // TreeNode high = p.val > q.val?p:q;
+        int high = Math.max(p.val,q.val);
+        int low = Math.min(p.val,q.val);
         while(true){
-            if(root.val>high.val)
+            if(root.val>high)
                 root=root.left;
-            else if(root.val<low.val)
+            else if(root.val<low)
                 root=root.right;
             else
                 return root;
