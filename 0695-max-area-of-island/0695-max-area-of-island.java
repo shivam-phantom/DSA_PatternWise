@@ -1,11 +1,11 @@
 class Solution {
     int dir[][] = {{-1,0},{0,-1},{1,0},{0,1}};
     int maxArea = 0;
-    int[][] visited;
+    // int[][] visited;
     public int maxAreaOfIsland(int[][] grid) {
         int rows = grid.length;
         int cols = grid[0].length;
-        visited = new int[rows][cols];
+        // visited = new int[rows][cols];
         for(int r=0;r<rows;r++){
             for(int c=0;c<cols;c++){
                 if(grid[r][c]==1){
