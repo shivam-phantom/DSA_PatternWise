@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
+| [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Greedy
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
+| [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
+| [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
+| [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Design
 |  |
@@ -313,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
