@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
