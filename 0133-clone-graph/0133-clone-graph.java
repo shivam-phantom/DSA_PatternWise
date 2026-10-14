@@ -28,7 +28,10 @@ class Solution {
         Node copy = new Node(node.val);
         map.put(node,copy);
         for(Node nb : node.neighbors ){
-            copy.neighbors.add(cloneGraph(nb));
+            if(map.containsKey(nb))
+                copy.neighbors.add(map.get(nb));
+            else
+                copy.neighbors.add(cloneGraph(nb));
         }
         return copy;
     }
