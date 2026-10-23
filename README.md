@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0994-rotting-oranges) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
@@ -371,4 +374,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
