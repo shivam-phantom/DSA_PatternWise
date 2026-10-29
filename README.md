@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
