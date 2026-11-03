@@ -4,6 +4,7 @@ class Solution {
         int[] dis = new int[n];
         Arrays.fill(dis,Integer.MAX_VALUE);
         dis[src]=0;
+        //K stops between src and dst means we can go till k+1 edges in the shortest path at most
         for(int i=0;i<=k;i++){
             int[] tmp = dis.clone();
             for(int[] fli : flights){
