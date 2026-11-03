@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2050-parallel-courses-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2050-parallel-courses-iii) |
 ## Bracket Sequences
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Dijkstra's Algorithm
 |  |
