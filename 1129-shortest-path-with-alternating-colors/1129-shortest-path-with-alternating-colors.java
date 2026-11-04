@@ -1,5 +1,5 @@
 class Solution {
-    public int[] shortestAlternatingPaths1(int n, int[][] redEdges, int[][] blueEdges) {
+    public int[] shortestAlternatingPaths(int n, int[][] redEdges, int[][] blueEdges) {
         //Bellman Ford Algo
         int dist[][] = new int[n][2];
         int INF = Integer.MAX_VALUE/2;
@@ -44,7 +44,7 @@ class Solution {
         }
         return ans;
     }
-    public int[] shortestAlternatingPaths(int n, int[][] redEdges, int[][] blueEdges) {
+    public int[] shortestAlternatingPaths1(int n, int[][] redEdges, int[][] blueEdges) {
         //BFS approach for shortest path:
         List<List<Integer>> redAdj = new ArrayList<>();
         List<List<Integer>> blueAdj = new ArrayList<>();
