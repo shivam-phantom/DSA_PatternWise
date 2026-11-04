@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0841-keys-and-rooms) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2050-parallel-courses-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
