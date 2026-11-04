@@ -45,7 +45,7 @@ class Solution {
         return ans;
     }
     public int[] shortestAlternatingPaths(int n, int[][] redEdges, int[][] blueEdges) {
-
+        //BFS approach for shortest path:
         List<List<Integer>> redAdj = new ArrayList<>();
         List<List<Integer>> blueAdj = new ArrayList<>();
         Queue<int[]> q = new ArrayDeque<>();
