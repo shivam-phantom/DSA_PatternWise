@@ -20,6 +20,8 @@ class Solution {
             double[] cur = pq.poll();
             double currProb = cur[1];
             int u = (int)cur[0];
+            if (u == end_node)
+                return currProb;
             if (currProb < prob[u])
                 continue;
             // int v = (int)cur[2];
@@ -31,7 +33,7 @@ class Solution {
                 double pb = ele[1];
                 if( prob[v] < prob[u] * pb ){
 
-                    prob[v]=prob[u] * pb;
+                    prob[v]=currProb * pb;
                     pq.offer(new double[]{v,prob[v]});
                 }
             }
