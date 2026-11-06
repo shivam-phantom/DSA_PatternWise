@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 | [2050-parallel-courses-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -359,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 ## Union-Find
 |  |
@@ -369,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
@@ -399,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
