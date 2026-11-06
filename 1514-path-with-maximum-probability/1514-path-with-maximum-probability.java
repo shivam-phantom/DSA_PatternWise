@@ -17,9 +17,11 @@ class Solution {
         PriorityQueue<double[]> pq = new PriorityQueue<>((a,b)->Double.compare(b[1],a[1]));
         pq.offer(new double[] {start_node,prob[start_node]});
         while(!pq.isEmpty()){
-            // double[] cur = pq.poll();
-            // double pb = cur[0];
-            int u = (int)pq.poll()[0];
+            double[] cur = pq.poll();
+            double currProb = cur[1];
+            int u = (int)cur[0];
+            if (currProb < prob[u])
+                continue;
             // int v = (int)cur[2];
             // if(v == end_node)
             //     return pb;
