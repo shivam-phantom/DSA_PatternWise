@@ -15,6 +15,53 @@ class Solution {
         PriorityQueue<long[]> pq = new PriorityQueue<>((a,b)->Long.compare(a[1],b[1]));
         // long minDist = Integer.MAX_VALUE;
         long[] dist = new long[n];
+        long[] ways = new long[n];
+        Arrays.fill(dist,Long.MAX_VALUE);
+        dist[0]=0;
+        ways[0]=1;
+        pq.offer(new long[] {0,0});
+        while(!pq.isEmpty()){
+            long[] cur = pq.poll();
+            int u = (int)cur[0];
+            long curDist = cur[1];
+            // if(u==n-1){
+            //     minDist = curDist;
+            //     break;
+            // }
+            if(curDist>dist[u])
+                continue;
+            
+            for(int[] nb : adj.get(u)){
+                int v = nb[0];
+                int wt = nb[1];
+                long newDist = dist[u] + wt;
+                if(dist[v]> newDist){
+                    dist[v]= newDist;
+                    ways[v] = ways[u];
+                    pq.offer(new long[]{v,dist[v]});
+                } else if(dist[v]==newDist){
+                    ways[v] = (ways[v]+ways[u])%MOD;
+                }
+            }
+        }
+        
+        return (int) ways[n-1];
+    }
+    public int countPaths1(int n, int[][] roads) {
+        
+        //for list u : 0-v(neighbour) 1-edget uv weight
+        List<List<int[]>> adj = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int[] road : roads){
+            adj.get(road[0]).add(new int[] {road[1],road[2]});
+            adj.get(road[1]).add(new int[] {road[0],road[2]});
+        }
+        //min heap for shortest path
+        PriorityQueue<long[]> pq = new PriorityQueue<>((a,b)->Long.compare(a[1],b[1]));
+        // long minDist = Integer.MAX_VALUE;
+        long[] dist = new long[n];
         Arrays.fill(dist,Long.MAX_VALUE);
         dist[0]=0;
         pq.offer(new long[] {0,0});
