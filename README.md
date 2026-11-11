@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
