@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2050-parallel-courses-iii) |
@@ -138,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
