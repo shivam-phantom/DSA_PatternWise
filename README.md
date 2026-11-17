@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0344-reverse-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0344-reverse-string](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0344-reverse-string) |
 | [0752-open-the-lock](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0752-open-the-lock) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
