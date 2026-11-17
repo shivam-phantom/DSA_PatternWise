@@ -16,7 +16,7 @@ class Solution {
         if(i>=n/2)
             return;
         rev(s,i+1);
-        System.out.println(s[i]);
+        // System.out.println(s[i]);
         char tmp = s[n-1-i];
         s[n-1-i] = s[i];
         s[i] = tmp;
