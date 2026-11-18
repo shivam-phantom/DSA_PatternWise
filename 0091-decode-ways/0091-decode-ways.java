@@ -1,13 +1,13 @@
 class Solution {
     public int numDecodings(String s) {
-        Integer[] dp = new Integer[s.length()];
+        Integer[] dp = new Integer[s.length()+1];
         return solve(s,dp,0);
     }
     public int solve(String s, Integer[] dp, int i){
         if(i==s.length())
-            return 1;
+            return dp[i]=1;
         if(s.charAt(i)=='0')
-            return 0;
+            return dp[i]=0;
         if(dp[i] != null)
             return dp[i];
         int ways = solve(s,dp,i+1);
