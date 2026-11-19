@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Lifting
