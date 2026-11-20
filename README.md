@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1514-path-with-maximum-probability](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1905-count-sub-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1905-count-sub-islands) |
 | [2050-parallel-courses-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2101-detonate-the-maximum-bombs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2050-parallel-courses-iii) |
 ## Bracket Sequences
