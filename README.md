@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1254-number-of-closed-islands) |
 | [1514-path-with-maximum-probability](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1514-path-with-maximum-probability) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0918-maximum-sum-circular-subarray) |
+| [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -505,9 +507,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
