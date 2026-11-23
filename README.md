@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
@@ -514,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
