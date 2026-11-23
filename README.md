@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0377-combination-sum-iv) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
