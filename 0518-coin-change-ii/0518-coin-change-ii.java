@@ -4,8 +4,8 @@ class Solution {
         // Arrays.fill(dp,amount+1);
         dp[0] = 1;
         for(int c : coins){
-            for(int j=1;j<=amount;j++){
-                if(j-c>=0)
+            for(int j=c;j<=amount;j++){
+                // if(j-c>=0)
                     dp[j] += dp[j-c];
             }
         }
