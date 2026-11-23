@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0733-flood-fill) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0746-min-cost-climbing-stairs) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -522,4 +525,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
