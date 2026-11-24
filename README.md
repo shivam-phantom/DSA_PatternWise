@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0344-reverse-string) |
 | [0752-open-the-lock](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0752-open-the-lock) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1143-longest-common-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1143-longest-common-subsequence) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Bit Manipulation
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
