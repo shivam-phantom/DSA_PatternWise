@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0200-number-of-islands) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
 | [0652-find-duplicate-subtrees](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0752-open-the-lock) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0344-reverse-string) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -546,4 +551,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
