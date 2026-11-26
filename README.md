@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
