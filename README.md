@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1092-shortest-common-supersequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Bit Manipulation
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
