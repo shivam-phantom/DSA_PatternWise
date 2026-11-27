@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0377-combination-sum-iv) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
@@ -566,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
