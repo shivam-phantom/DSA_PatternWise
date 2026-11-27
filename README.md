@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0417-pacific-atlantic-water-flow) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0056-merge-intervals) |
+| [0354-russian-doll-envelopes](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0354-russian-doll-envelopes) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0337-house-robber-iii) |
+| [0354-russian-doll-envelopes](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0494-target-sum) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0354-russian-doll-envelopes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/1631-path-with-minimum-effort) |
@@ -577,4 +581,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/shivam-phantom/DSA_PatternWise/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
